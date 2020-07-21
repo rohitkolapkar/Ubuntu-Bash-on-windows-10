@@ -11,18 +11,12 @@ Note: Make sure you are connected to internet.
 - > it will require 432 MB of data to get installed.
 - > Do not open Ubuntu for now.
 
-## 2. Go to settings  
-- > updates and security
-- > For Developers 
-- > Turn on developer mode.
-- > It will take some time.
-
-## 3. Press windows key and type " Turn windows features on or off" , hit enter
+## 2. Press windows key and type " Turn windows features on or off" , hit enter
 - > in the list search for " windows subsystem for linux " , tick on, press ok. 
 - > windows will suggest you to reboot the pc -> Hit enter.
 - > You will see update in progress screen. It is totally fine.
 
-## 4. After turning on, run Ubuntu App.
+## 3. After turning on, run Ubuntu App.
 - > For the first time it will show - " Installing this may take few minutes ", Please wait.
 - > After that, you will see " Enter new UNIX username " on screen.
 - > Enter the username with your choice and hit enter.
