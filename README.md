@@ -11,7 +11,7 @@ Note: Make sure you are connected to internet.
 - > it will require 432 MB of data to get installed.
 - > Do not open Ubuntu for now.
 
-##2. Go to settings
+##2. Go to settings  
 - > updates and security
 - > For Developers 
 - > Turn on developer mode.
@@ -30,7 +30,9 @@ Note: Make sure you are connected to internet.
 - > Retype the password, hit enter
 
 Here you are Done.
-- >For the first time It is advisable to run " sudo apt update"
+##For the first time It is advisable to install update.
+- > 1. "sudo apt update" 
+- > 2. "sudo apt upgrade"
 Thank you. 
 
 ## Authors
