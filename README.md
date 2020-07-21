@@ -6,7 +6,7 @@ Note: Make sure you are connected to internet.
 # Steps
 
 ##1. Go to windows app store
-- > Login with Microsoft Office ( ignore if already did ) 
+- > Login with Microsoft Account ( ignore if already did ) 
 - > search for "Ubuntu " -> Hit get button. 
 - > it will require 432 MB of data to get installed.
 - > Do not open Ubuntu for now.
