@@ -30,14 +30,20 @@ Note: Make sure you are connected to internet.
 - > 2. "sudo apt upgrade"
 
 ## where does ubuntu on windows store files ?
+#### For Windows 10 v2004 and above
+- > Just put `\\wsl$` in your windows explorer address bar and press enter.
+#### For other versions
 - > C:\Users\your-windows-user-name\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\unix-user-name
 
 ## How to get the address of your windows desktop on Ubuntu bash ?
 - > cd /mnt/c/users/your-windows-user-name/Desktop
 
-## Author
+## Authors
 
-* **Rohit Kolapkar** - [rohitkolapkar](https://github.com/rohitkolapkar).
+* [**Rohit Kolapkar**](https://github.com/rohitkolapkar)
+* [**Rahul Thakare**](https://github.com/bantya)
 
 ## Thank you. 
+
+🙏🏼
  
