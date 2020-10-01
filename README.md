@@ -26,8 +26,8 @@ Note: Make sure you are connected to internet.
 ### Here you are Done with installation.
 
 ## For the first time It is advisable to install updates of ubuntu distribution.
-- > 1. "sudo apt update" 
-- > 2. "sudo apt upgrade"
+- >  $ sudo apt update 
+- >  $ sudo apt upgrade
 
 ## where does ubuntu on windows store files ?
 #### For Windows 10 v2004 and above
@@ -36,7 +36,7 @@ Note: Make sure you are connected to internet.
 - > C:\Users\your-windows-user-name\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\unix-user-name
 
 ## How to get the address of your windows desktop on Ubuntu bash ?
-- > cd /mnt/c/users/your-windows-user-name/Desktop
+- > $ cd /mnt/c/users/your-windows-user-name/Desktop
 
 ## Authors
 
