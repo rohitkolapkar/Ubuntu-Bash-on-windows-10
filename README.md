@@ -11,7 +11,7 @@ Note: Make sure you are connected to internet.
 - > it will require 432 MB of data to get installed.
 - > Do not open Ubuntu for now.
 
-## 2. Press windows key and type " Turn windows features on or off" , hit enter
+## 2. Press windows key and type "Turn windows features on or off" , hit enter
 - > in the list search for " windows subsystem for linux " , tick on, press ok. 
 - > windows will suggest you to reboot the pc -> Hit enter.
 - > You will see update in progress screen. It is totally fine.
